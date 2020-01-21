@@ -1,11 +1,11 @@
 
 # Site Settings
 
-title: Sujay Kundu  # Your Title 
-subtitle: Full Stack Web Developer 
-email: sujaykundu777@gmail.com  # Your Email
+title: Phillip Ninan  # Your Title 
+subtitle: Senior Software Engineer 
+email: ninan.phillip@gmail.com  # Your Email
 description: >-  
-  Sujay Kundu is Web Developer and Blogger
+  Phillip is Web Developer and Blogger
 baseurl: "/devlopr-starter" # the subpath of your site, e.g. /blog
 url: "https://sujaykundu.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xplor4r
@@ -18,17 +18,13 @@ urls:
       url: /
     - text: Blog
       url: /blog
-    - text: Shop
-      url : /shop
-    - text: Sample Page
-      url: /sample-page
     - text: Contact Me
       url : /contact
 
 # Author Details
 
 author_logo: profile.jpg
-author: Sujay Kundu
+author: Phillip Ninan
 author_bio: Hi, My Name is Sujay Kundu. I love to Code and Design. devlopr-jekyll is a theme built for developers.  
 author_email: "sujaykundu777@gmail.com"
 author_location: India
